@@ -129,3 +129,6 @@ main {
     width: 90%;                  /* page takes 90% of screen width */
     margin: auto;                /* centers the main content */
 }
+
+.hidden {position: absolute;
+        left: -9999px;}
